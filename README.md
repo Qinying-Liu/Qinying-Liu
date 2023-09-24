@@ -15,17 +15,15 @@
 ### Hi there 👋
 👯 Hi, I am Qinying-Liu, a Ph.D. student from the University of Science of Technology of China.
 
-✊ I am supervised by [Jian Liang](https://liangjian.xyz/).
-
 🔭 I’m currently working on machine learning topics about vision-language models.
 
-📫 Feel free to drop me an email (zhengbowang@mail.ustc.edu.cn) if you are interested.
+📫 Feel free to drop me an email (lydyc@mail.ustc.edu.cn) if you are interested.
 
 <p align="left">
-  <a href="https://github.com/mrflogs" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrflogs" alt="Zhengbo's Stats" >
+  <a href="https://github.com/Qinying-Liu" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Qinying-Liu" alt="Qinying's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=mrflogs&hide=issues" alt="Zhengbo's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=Qinying-Liu&hide=issues" alt="Qinying's Stats" >
     -->
   </a>
 </p>
