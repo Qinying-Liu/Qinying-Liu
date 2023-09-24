@@ -11,7 +11,7 @@
  <img align="right" src="https://komarev.com/ghpvc/?username=Qinying-Liu&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 
 ### Hi there 👋
-👯 Hi, I am Qinying-Liu, a Ph.D. student from the University of Science of Technology of China.
+👯 Hi, I am Qinying Liu, a Ph.D. student from the University of Science of Technology of China.
 
 🔭 I’m currently working on video understanding and multi-modal learning.
 
