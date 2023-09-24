@@ -13,7 +13,7 @@
 ### Hi there 👋
 👯 Hi, I am Qinying-Liu, a Ph.D. student from the University of Science of Technology of China.
 
-🔭 I’m currently working on deep learning topics about vision-language models.
+🔭 I’m currently working on video understanding and multi-modal learning.
 
 📫 Feel free to drop me an email (lydyc@mail.ustc.edu.cn) if you are interested.
 
