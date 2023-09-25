@@ -15,7 +15,7 @@
 
 🔭 My primary research interests lie in computer vision and deep learning, with a specific focus on video understanding and multi-modality learning. 
 
-📫 I am currently seeking a job to start in the summer of 2024, please feel free to drop me an email (lydyc@mail.ustc.edu.cn) if you are interested in my research.
+📫 I am currently actively seeking employment opportunities starting in the spring or summer of 2024. If you are interested in my research, please don't hesitate to reach out to me via email at lydyc@mail.ustc.edu.cn.
 
 <p align="left">
   <a href="https://github.com/Qinying-Liu" class="rich-diff-level-one">
