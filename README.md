@@ -11,11 +11,11 @@
  <img align="right" src="https://komarev.com/ghpvc/?username=Qinying-Liu&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 
 ### Hi there 👋
-👯 Hi, I am Qinying Liu, a Ph.D. student from the University of Science of Technology of China.
+👯 Hi, I am Qinying Liu, a final-year Ph.D. candidate at the University of Science of Technology of China.
 
-🔭 I’m currently working on video understanding and multi-modal learning.
+🔭 My primary research interests lie in computer vision and deep learning, with a specific focus on video understanding and multi-modality learning. 
 
-📫 Feel free to drop me an email (lydyc@mail.ustc.edu.cn) if you are interested.
+📫 I am currently seeking a job to start in the summer of 2024, please feel free to drop me an email (lydyc@mail.ustc.edu.cn) if you are interested in my research.
 
 <p align="left">
   <a href="https://github.com/Qinying-Liu" class="rich-diff-level-one">
