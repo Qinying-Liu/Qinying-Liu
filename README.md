@@ -12,9 +12,9 @@
 
 👯 Hi, I am Qinying Liu, a final-year Ph.D. candidate at the University of Science of Technology of China.
 
-🔭 My primary research interests lie in computer vision and deep learning, with a specific focus on video understanding and multi-modality learning. 
+🔭 My primary research interests lie in video understanding and multi-modality learning. 
 
-📫 I am currently actively seeking employment opportunities starting in the spring or summer of 2024. If you are interested in my research, please don't hesitate to reach out to me via email at lydyc@mail.ustc.edu.cn.
+📫 I am currently seeking employment opportunities starting in the spring or summer of 2024. If you are interested in my research, please don't hesitate to reach out to me via email at lydyc@mail.ustc.edu.cn.
 
 <p align="left">
   <a href="https://github.com/Qinying-Liu" class="rich-diff-level-one">
