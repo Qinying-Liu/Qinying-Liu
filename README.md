@@ -10,7 +10,7 @@
 
  <img align="right" src="https://komarev.com/ghpvc/?username=Qinying-Liu&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 
-### Hi there 👋
+- ### Hi there 👋
 👯 Hi, I am Qinying Liu, a final-year Ph.D. candidate at the University of Science of Technology of China.
 
 🔭 My primary research interests lie in computer vision and deep learning, with a specific focus on video understanding and multi-modality learning. 
