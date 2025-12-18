@@ -10,11 +10,11 @@
 
  <img align="right" src="https://komarev.com/ghpvc/?username=Qinying-Liu&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 
-👯 Hi, I am Qinying Liu, a final-year Ph.D. candidate at the University of Science of Technology of China.
+👯 Hi, I am Qinying Liu, a AI researcher in Tencent HunYuan.
 
-🔭 My primary research interests lie in video understanding and multi-modality learning. 
+🔭 My primary research interests lie in multi-modality learning (including speech, vision, and text). 
 
-📫 I am currently seeking employment opportunities starting in the spring or summer of 2024. If you are interested in my research, please don't hesitate to reach out to me via email at lydyc@mail.ustc.edu.cn.
+📫 If you are interested in my research, please don't hesitate to reach out to me via email at lydyc@mail.ustc.edu.cn.
 
 <p align="left">
   <a href="https://github.com/Qinying-Liu" class="rich-diff-level-one">
