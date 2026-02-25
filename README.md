@@ -16,14 +16,6 @@
 
 📫 If you are interested in my research, please don't hesitate to reach out to me via email at lydyc@mail.ustc.edu.cn.
 
-<p align="left">
-  <a href="https://github.com/Qinying-Liu" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Qinying-Liu" alt="Qinying's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Qinying-Liu&hide=issues" alt="Qinying's Stats" >
-    -->
-  </a>
-</p>
 
 <!-- ### Hi, I am Qinying Liu -->
 
